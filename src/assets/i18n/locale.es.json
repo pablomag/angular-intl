@@ -1,0 +1,22 @@
+{
+	"HOME":
+	{
+		"_HELLO_": "Hola {{value}}",
+		"_TITLE_": "App Testeo de Internacionalizacion"
+	},
+	"BODY":
+	{
+		"_INCODE_": "Variable dentro del codigo del componente"
+	},
+	"DEFAULT":
+	{
+		"_TITLE_": "Componente por defecto cargado",
+		"_TEXT_": "Texto a traducir",
+		"_BUTTON_": "Cambiar lenguaje"
+	},
+	"ANOTHER":
+	{
+		"_TITLE_": "Otro componente cargado",
+		"_TEXT_": "Otro texto a traducir"
+	}
+}

@@ -1,0 +1,22 @@
+{
+	"HOME":
+	{
+		"_HELLO_": "Hello {{value}}",
+		"_TITLE_": "Internationalization Test App"
+	},
+	"BODY":
+	{
+		"_INCODE_": "Variable inside the component code"
+	},
+	"DEFAULT":
+	{
+		"_TITLE_": "Default component loaded",
+		"_TEXT_": "Text to be translated",
+		"_BUTTON_": "Change language"
+	},
+	"ANOTHER":
+	{
+		"_TITLE_": "Another component loaded",
+		"_TEXT_": "Another text to be translated"
+	}
+}
